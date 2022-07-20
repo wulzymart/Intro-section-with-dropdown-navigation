@@ -90,7 +90,7 @@ li {
 }
 main {
   width: 80%;
-  margin: auto;
+  margin: 0 auto 100px;
   display: flex;
   gap: 100px;
   flex-direction: row-reverse;
@@ -101,8 +101,8 @@ main {
 }
 .text h1 {
   font-weight: 700;
-  font-size: 4.7em;
-  margin-bottom: 40px;
+  font-size: 4.6em;
+  margin: 80px 0 40px;
 }
 .text p {
   font-weight: 500;
