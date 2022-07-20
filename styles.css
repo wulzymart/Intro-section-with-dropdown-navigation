@@ -102,13 +102,14 @@ main {
 .text h1 {
   font-weight: 700;
   font-size: 4.7em;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 .text p {
   font-weight: 500;
   font-size: 18px;
   line-height: 1.5;
   color: #696969;
+  margin-bottom: 40px;
 }
 .text button {
   color: #fafafa;
